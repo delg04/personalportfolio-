@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(166, 169, 240);
+    border: 5px dashed pink;
+    padding: 50px;
+    margin: 25;
+}
+
+
+h1{
+    color:rgb(240, 166, 214)
+}
+p{
+    color:rgb(0, 0, 0)
+  
+}
+
+#one{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   
+
+
+}
+
+.myclass{
+    color: cornflowerblue;
+}
+
+/* .displaystyle{
+    display:inline;
+} */
+
+/* .display-style{
+    display:flex
+    flex-direction:row;
+    justify-content:right;
+} */

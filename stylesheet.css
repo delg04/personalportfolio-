@@ -24,7 +24,7 @@ p{
 }
 
 .myclass{
-    color: cornflowerblue;
+    color: rgb(19, 5, 5);
 }
 
 /* .displaystyle{
@@ -37,19 +37,8 @@ p{
     justify-content:right;
 } */
 
-#lists{
-    display: flex;
-    justify-content: space-evenly;
-}
-#unordered{
-    color:#072cff;
-    display: flex;
-    flex-direction: column;
-    justify-content: end;
-}
-#ordered{
-    color:#5C4033;
-    display: flex;
-    flex-direction: column;
-    justify-content: end;
+
+#button {
+    background-color: bisque;
+    margin-left: 50%;
 }
